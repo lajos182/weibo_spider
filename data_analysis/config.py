@@ -1,0 +1,3 @@
+# 百度AI开放平台
+API_KEY = 'ARyhZrWCiUwKKF2sEbojyC9c'
+SECRET_KEY = 'rUr7I9eN4YPVxb9Ayg3lWWMptSWcWKGI'
