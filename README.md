@@ -1,4 +1,4 @@
-# CookiesPool
+# weibo_spider
 
 分别采用Scrapy、crawlScrapy、redis-crawlScrapy模拟新浪微博登录并抓取热点，保存相应的数据并对结果进行分析
 
