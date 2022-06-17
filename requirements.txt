@@ -43,7 +43,7 @@ queuelib==1.5.0
 redis==3.4.1
 requests==2.23.0
 rsa==4.0
-Scrapy==2.0.1
+Scrapy==2.6.1
 scrapy-redis==0.6.8
 service-identity==18.1.0
 shadowsocks==2.8.2
